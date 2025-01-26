@@ -1,0 +1,24 @@
+﻿body {
+    background-color: #f4f4f4;
+    font-family: 'Arial', sans-serif;
+}
+
+.container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #007bff;
+}
+
+#taskList li {
+    margin: 10px 0;
+}
+
+.completed {
+    text-decoration: line-through;
+    background-color: #d4edda;
+}
